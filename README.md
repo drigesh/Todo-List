@@ -2,7 +2,7 @@
 
 ### Description
 
-This site provides you a list that can be used to remember upcoming activities you want to do. Visit [here](https://todo-list-use.herokuapp.com/) or copy link ``` https://todo-list-use.herokuapp.com/ ```
+This site provides you a list that can be used to remember upcoming activities you want to do. Visit [**here**](https://todo-list-use.herokuapp.com/) or copy link ``` https://todo-list-use.herokuapp.com/ ```
 
 - _The site uses HTML, CSS and JavaScript for front-end._
 
